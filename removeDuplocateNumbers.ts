@@ -10,4 +10,4 @@ const removeDuplicateNumbers = (numbers: number[]): number[] => {
   return uniqueNumbers;
 }
 
-console.log(removeDuplicateNumbers([1, 8 , 8, 10,1, 2, 3, 3, 4, 5, 4, 6, 6, 7]));
+console.log(removeDuplicateNumbers([1, 8 , 8, 10, 1, 2, 3, 3, 4, 5, 4, 6, 6, 7]));
